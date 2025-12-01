@@ -3,12 +3,12 @@
 
 ## 🧪 Experiments
 
-### [Lab 1: GAN vs VAE Foundations](gan%20vs%20vae/)
+### [GAN vs VAE Foundations](gan%20vs%20vae/)
 A comparative study of **Generative Adversarial Networks (GANs)** and **Variational Autoencoders (VAEs)** on image generation tasks.
 
 **📂 Key Files:**
-- 📓 **[Notebook](gan%20vs%20vae/Abdellahi%20lab1_gan_vae.ipynb)**: Complete implementation of GAN and VAE training loops, including hyperparameter tuning for Latent Dimension ($Z$).
-- 📄 **[Final Report](gan%20vs%20vae/Abdellahi-LAB1-report.pdf)**: Comprehensive PDF report analyzing stability, mode collapse, and reconstruction quality.
+- 📓 **[Notebook](gan%20vs%20vae/gan_vs_vae_experiments.ipynb)**: Complete implementation of GAN and VAE training loops, including hyperparameter tuning for Latent Dimension ($Z$).
+- 📄 **[Final Report](gan%20vs%20vae/gan_vs_vae_report.pdf)**: Comprehensive PDF report analyzing stability, mode collapse, and reconstruction quality.
 
 **✨ Highlights:**
 - **Datasets**: MNIST (Digits) & Fashion-MNIST (Clothing).
