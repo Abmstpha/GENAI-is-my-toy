@@ -1,0 +1,226 @@
+=== Model: Baseline ===
+[Prompt]: ROMEO: I dreamt tonight that
+[Output]: ROMEO: I dreamt tonight that we will be back in Las Vegas, and I have no idea where we are going. It's not like when you start playing football, but when you start playing, I think you'll see it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------
+=== Model: Baseline ===
+[Prompt]: ### Instruction:
+Rewrite the line in modern English.
+### Input:
+'Thou art more lovely and more temperate.'
+### Response:
+
+[Output]: ### Instruction:
+Rewrite the line in modern English.
+### Input:
+'Thou art more lovely and more temperate.'
+### Response:
+'Fifty-seven million words are made each day by a thousand,000 different artists in many different countries.
+'What's more, people are spending less time studying or writing music than they have ever spent working, and more time enjoying music.
+'A new art style that is not
+------------------------------------------------------------
+=== Model: Baseline ===
+[Prompt]: SCENE PROMPTS:
+Task: 'A stormy seashore.' -> 
+[Output]: SCENE PROMPTS:
+Task: 'A stormy seashore.' -> ?????????????????????????????????????????????
+A stormy seashore was on the surface of the earth and was not visible to the world.
+He was on the surface of the earth and was not visible to the world.
+He was on the surface of the earth and
+------------------------------------------------------------
+=== Model: Baseline ===
+[Prompt]: The capital of France is
+[Output]: The capital of France is now the capital of French national cities, including Paris, Marseille and Paris, and it is known by its name, Château.
+
+
+
+The city has been the focal point of French cultural celebrations since the 1960s and has long been known as the French capital of France.
+------------------------------------------------------------
+=== Model: Baseline ===
+[Prompt]: Explain how a smartphone works:
+[Output]: Explain how a smartphone works: the way it behaves with its camera. How it works with its camera. How it works with its camera. How it works with its camera. How it works with its camera. How it works with its camera. How it works with its camera. How it works with its camera. How it works
+------------------------------------------------------------
+=== Model: Baseline ===
+[Prompt]: The internet is a global system of
+[Output]: The internet is a global system of control, in which individuals can control their own content for themselves, and control what they do. This is what our digital world has been designed to achieve by having a free, fair, and accessible internet.
+
+
+
+The US government has not yet responded to the question of whether we will continue
+------------------------------------------------------------
+=== Model: Full FT ===
+[Prompt]: ROMEO: I dreamt tonight that
+[Output]: ROMEO: I dreamt tonight that he shall go to prison.
+
+LUCIO:
+I never know, sir.
+
+ROMEO:
+I never know, sir.
+
+LUCIO:
+You, sir, will not pardon him to the Tower of London.
+
+ROMEO:
+Well,
+------------------------------------------------------------
+=== Model: Full FT ===
+[Prompt]: ### Instruction:
+Rewrite the line in modern English.
+### Input:
+'Thou art more lovely and more temperate.'
+### Response:
+
+[Output]: ### Instruction:
+Rewrite the line in modern English.
+### Input:
+'Thou art more lovely and more temperate.'
+### Response:
+O madam, what's thy love to thy son?
+O madam, what's thy love to thy wife, thy son?
+O madam, what's thy love to thy wife, thy son?
+O madam, what's thy love to thy wife, thy son?
+------------------------------------------------------------
+=== Model: Full FT ===
+[Prompt]: SCENE PROMPTS:
+Task: 'A stormy seashore.' -> 
+[Output]: SCENE PROMPTS:
+Task: 'A stormy seashore.' -> ________________________
+
+HENRY BOLINGBROKE:
+What, say you the friar?
+
+CAMILLO:
+I am a friar; but not a friar.
+
+HENRY BOLINGBROKE:
+I am a friar
+------------------------------------------------------------
+=== Model: Full FT ===
+[Prompt]: The capital of France is
+[Output]: The capital of France is come.
+
+Second Murderer:
+My liege, my liege, I have told you that it was
+too much to be true.
+
+Third Murderer:
+No, my liege, I have told you that it was
+too much to be true.
+
+
+------------------------------------------------------------
+=== Model: Full FT ===
+[Prompt]: Explain how a smartphone works:
+[Output]: Explain how a smartphone works:
+When the device is put in a purse, the purse shall not be kept
+In such a purse as it were in a purse:
+But, as is done in a purse, a purse
+Must be put in a purse as it were in a purse.
+
+RIVERS:
+
+------------------------------------------------------------
+=== Model: Full FT ===
+[Prompt]: The internet is a global system of
+[Output]: The internet is a global system of good people; but all the power to
+waste it on some means of access to
+themselves.
+
+HORTENSIO:
+Sirrah, what, is this your daughter born to die?
+
+GLOUCESTER:
+Her, as it were, was an
+------------------------------------------------------------
+=== Model: LoRA (r=16) ===
+[Prompt]: ROMEO: I dreamt tonight that
+[Output]: ROMEO: I dreamt tonight that my father shall be crowned king of Egypt, and then, as the Lord hath told us: that I must now be crowned king of Egypt, and then, as the Lord hath told us: that I must now be crowned king of Egypt, and then, as the Lord has told us: that
+------------------------------------------------------------
+=== Model: LoRA (r=16) ===
+[Prompt]: ### Instruction:
+Rewrite the line in modern English.
+### Input:
+'Thou art more lovely and more temperate.'
+### Response:
+
+[Output]: ### Instruction:
+Rewrite the line in modern English.
+### Input:
+'Thou art more lovely and more temperate.'
+### Response:
+The lines should be altered.
+### Re-interpret:
+Now I don't mean it by'me' to be a complete-language version of the English.
+--
+SUMMARY:
+I am glad to have the translation done.
+
+### Answer:
+It's
+------------------------------------------------------------
+=== Model: LoRA (r=16) ===
+[Prompt]: SCENE PROMPTS:
+Task: 'A stormy seashore.' -> 
+[Output]: SCENE PROMPTS:
+Task: 'A stormy seashore.' -> Â
+We hear this cry a loud and clear, like that of our sons:
+It seems that, when they hear the voice of the King of England, they will not think of it
+For they are not, nor can they think of it
+For they are not
+It seems that
+------------------------------------------------------------
+=== Model: LoRA (r=16) ===
+[Prompt]: The capital of France is
+[Output]: The capital of France is the centre of the world, but its great centre is a dead city, so the people who have made their country, are going to find them, and they must be slain.
+
+
+
+There were many more things, but none were, it is a small country.
+
+I am
+------------------------------------------------------------
+=== Model: LoRA (r=16) ===
+[Prompt]: Explain how a smartphone works:
+[Output]: Explain how a smartphone works:
+
+› ›
+
+
+
+
+The question is:
+How would I be able to have this to do?
+
+›
+
+
+I would have had the opportunity to do so.
+
+
+That is the problem:
+
+To answer the question, the
+------------------------------------------------------------
+=== Model: LoRA (r=16) ===
+[Prompt]: The internet is a global system of
+[Output]: The internet is a global system of data, so the world‍s is nothing more than a set of interconnected systems: The internet is an open world, and a way of living‍s life‍s life‍s existence‍s existence‍s existence‍s existence‍s existence‍
+------------------------------------------------------------
